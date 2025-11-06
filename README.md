@@ -52,3 +52,10 @@ streamlit help
 
 - how to delete conda envs
 - how to see my conda envs
+
+
+### Design Choices
+
+- map to visually see the GPS points on the carpark. Can hover over to see all information about a particular point. To extend the functionallity of this could include a visual search and filtering of the points/ search by plate or bay and visually highlight found point.
+- 'rejected rows' tab to see invalid data. calculated lat and long geo fence bounds can be seen here. 'None' licence plates are rejected. Vehcles with multiple entries are picked up in the below table for review but are not rejected.
+- in 'utilisation by bay' the bar graphs are split into long and short as the data is too skewed, harder to visualise as there is a big difference in max values compared to the majority of data.
