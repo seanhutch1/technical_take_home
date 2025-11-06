@@ -1,12 +1,12 @@
 ## technical_take_home
 ### Setup
-Step 1: to create conda env:
+- Step 1: to create conda env:
 ```conda env create -f environment.yml```
 
-Step 2: to activate conda env:
+- Step 2: to activate conda env:
 ```conda activate tth```
 
-Step 3: to run streamlit app:
+- Step 3: to run streamlit app:
 ```streamlit run app.py --server.port 3000   ```
 
 
@@ -18,16 +18,16 @@ Step 3: to run streamlit app:
 - ```https://www.youtube.com/watch?v=hn2WqRX75DI ```
 streamlit template
 
-```https://github.com/opengeos/streamlit-map-template ```
+- ```https://github.com/opengeos/streamlit-map-template ```
 template source code
 
 - ```https://www.youtube.com/watch?v=XDCB0uBCKMk```
 plotly usage
 
-```https://docs.streamlit.io/develop/api-reference/charts/st.area_chart ```
+- ```https://docs.streamlit.io/develop/api-reference/charts/st.area_chart ```
 streamlit docs
 
-```https://www.youtube.com/watch?v=o8p7uQCGD0U ```
+- ```https://www.youtube.com/watch?v=o8p7uQCGD0U ```
 streamlit help
 
 
