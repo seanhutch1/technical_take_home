@@ -30,6 +30,9 @@ streamlit docs
 - ```https://www.youtube.com/watch?v=o8p7uQCGD0U ```
 streamlit help
 
+- ```https://streamlit.io/gallery?category=geography-society``` streamlit gallery
+
+
 
 ### AI prompts (chatgpt): (reduced for clarity)
 
