@@ -1,5 +1,5 @@
-# technical_take_home
-#### Setup
+## technical_take_home
+### Setup
 Step 1: to create conda env:
 ```conda env create -f environment.yml```
 
@@ -14,7 +14,7 @@ Step 3: to run streamlit app:
 
 
 
-#### Sources:
+### Sources:
 - ```https://www.youtube.com/watch?v=hn2WqRX75DI ```
 streamlit template
 
@@ -31,7 +31,7 @@ streamlit docs
 streamlit help
 
 
- #### AI prompts (chatgpt): (reduced for clarity)
+### AI prompts (chatgpt): (reduced for clarity)
 
 - what is the prefix in this file for?
 - use conda
