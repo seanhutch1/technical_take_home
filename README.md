@@ -12,6 +12,8 @@ streamlit run app.py --server.port 3000
 
 
 
+
+
 Sources:
 https://www.youtube.com/watch?v=hn2WqRX75DI
 This video by streamlit has a github source code for a streamlit-map-template
